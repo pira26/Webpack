@@ -61,7 +61,7 @@
     ],
     "moduleNameMapper": {
       "\\.(css|less)$": "identity-obj-proxy",
-      "\\.(jpeg|jpg|png|gif|svg|woff|woff2|ttf)$": "<rootDir>/client/dist/assests/"
+      "\\.(jpeg|jpg|png|gif|svg|woff|woff2|ttf)$": "<rootDir>/client/dist/assets/"
     }
   }
 }

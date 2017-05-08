@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Averia';
+  src: url('../assets/averia.ttf');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -6,6 +11,7 @@
 h1 {
   background-color: grey;
   color: white;
+  font-family: 'Averia';
 }
 
 h3 {
@@ -14,4 +20,9 @@ h3 {
 
 p {
   color: blue;
+}
+
+.webpack-image {
+  width: 100%;
+  height: auto;
 }

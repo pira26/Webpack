@@ -6,7 +6,7 @@ const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const rimraf = require('rimraf');
 
 module.exports = {
-  entry: ["./src/index.js"],
+  entry: ["./client/src/index.js"],
   output: {
     path: path.join(__dirname, "..", "dist"),
     filename: "bundle.js",

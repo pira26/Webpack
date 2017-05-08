@@ -5,7 +5,7 @@ const App = () => {
     <div>
       <h1>Webpack Config</h1>
       <h3>TEST</h3>
-      <p>RÉUSSI</p>
+      <p>success</p>
     </div>
   );
 }
